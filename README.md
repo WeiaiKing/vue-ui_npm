@@ -2,14 +2,11 @@
 
 #### 本项目仅作为vue组件封装的练习参考
  
-#### 初始化vue项目
-    * vue created demo
- 
 #### 安装组件库
-   * npm add aking-ui
+  npm i aking-vue_ui
  
 #### 全局导入
-    * import akingUI form 'aking-ui'
-    * import 'aking-ui/lib/aking-vue_ui.css'
- 
-    * Vue.use(akingUI)
+import akingUI from 'aking-vue_ui'
+import 'aking-vue_ui/dist/aking-vue_ui.css'
+
+Vue.use(akingUI)
