@@ -7,6 +7,7 @@
  
 #### 全局导入
 import akingUI from 'aking-vue_ui'
+
 import 'aking-vue_ui/dist/aking-vue_ui.css'
 
 Vue.use(akingUI)
